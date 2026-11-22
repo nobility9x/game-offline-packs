@@ -603,6 +603,106 @@
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/farm_factory.zip"
     },
     {
+      "id": "figure_out",
+      "title_en": "Figure Out",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1462055,
+      "sha256": "ea53797cccc55ffe8581d38493ce7e38744e5035a0281eb682508f03bd47d72c",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/figure_out.zip"
+    },
+    {
+      "id": "figures_fall",
+      "title_en": "Figures Fall",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 713334,
+      "sha256": "fa38c4b245ddf9d258481613932f9ee59d77b0b0379e9906988aa5a030e43f10",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/figures_fall.zip"
+    },
+    {
+      "id": "fill_the_tile",
+      "title_en": "Fill The Tile",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1012570,
+      "sha256": "5734b02ac1204613d6ae89691ffd10a02685762ec1d04566513c9d292165d2ff",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/fill_the_tile.zip"
+    },
+    {
+      "id": "filled_glass",
+      "title_en": "Filled Glass",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 767953,
+      "sha256": "e08a06b3d9552ba0ee5eea56e1d631e876151b4ab81c79bac357b56ac6e1c221",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/filled_glass.zip"
+    },
+    {
+      "id": "filled_glass_2",
+      "title_en": "Filled Glass 2",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 811479,
+      "sha256": "590c0145bd3e2d481c638d62db8cdee5131b1dbdada317966e650512375abb74",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/filled_glass_2.zip"
+    },
+    {
+      "id": "filled_glass_3",
+      "title_en": "Filled Glass 3",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 978938,
+      "sha256": "57a944216dec67b628a45d8c9982ca83b019031cd4a0b18e34b68150ae0a04ac",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/filled_glass_3.zip"
+    },
+    {
+      "id": "filled_glass_4",
+      "title_en": "Filled Glass 4",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 986482,
+      "sha256": "f77564e1b414f8bb7d66b98f3f4238b9f33c0b43e0a48bb6dd41b0539c08c9fb",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/filled_glass_4.zip"
+    },
+    {
+      "id": "filled_glass_5",
+      "title_en": "Filled Glass 5",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1000284,
+      "sha256": "67125aa6feae96d4d3b51ae0e4741eba96d69b23ee1e8060ea57bfa2f79c11d0",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/filled_glass_5.zip"
+    },
+    {
+      "id": "find_mate",
+      "title_en": "Find Mate",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 3446745,
+      "sha256": "81141aa81df6265e75acebf305e93cd05ea10c532349f41bd47fdd2e0878d5c1",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/find_mate.zip"
+    },
+    {
+      "id": "find_mini_me",
+      "title_en": "Find Mini Me",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 8912411,
+      "sha256": "6bbc8a3184a398e85c8f304fd7a8c2aff3e6b763edc585105ef22513713a5893",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/find_mini_me.zip"
+    },
+    {
       "id": "find_number",
       "title_en": "Find Number",
       "title_vi": "",
@@ -621,6 +721,16 @@
       "size_bytes": 521634,
       "sha256": "333ec09acea470a7f2ba2eae162b11561ca92da6c9f1c5c7df7ccbd83d8bc8b2",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/find_pair.zip"
+    },
+    {
+      "id": "flapcat",
+      "title_en": "Flapcat",
+      "title_vi": "",
+      "category": "ACTION",
+      "version": 1,
+      "size_bytes": 541988,
+      "sha256": "fc7001a5012bcb1b58dea3cfb9bd23ccc787383eaae5b2c3348b53630de585a7",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/flapcat.zip"
     },
     {
       "id": "fruit_king",
@@ -643,6 +753,56 @@
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/fruits_match_2.zip"
     },
     {
+      "id": "fruits_splash",
+      "title_en": "Fruits Splash",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 863629,
+      "sha256": "3639db2992db8a24013e7a62f8ae638c9c5bed93c00ee3688b490688a78f3df8",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/fruits_splash.zip"
+    },
+    {
+      "id": "full_cup",
+      "title_en": "Full Cup",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1241824,
+      "sha256": "ff57268c7fbd368454544fe624200e0ac3875852999266b42ea8d5658e1e2bed",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/full_cup.zip"
+    },
+    {
+      "id": "galactic_go",
+      "title_en": "Galactic Go",
+      "title_vi": "",
+      "category": "BOARD",
+      "version": 1,
+      "size_bytes": 7902138,
+      "sha256": "7d27eebbc8d86661ab6fe85bdb7953b3dc65a1b51007b40a424e96b5bf8d6c51",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/galactic_go.zip"
+    },
+    {
+      "id": "gems_shot",
+      "title_en": "Gems Shot",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 744555,
+      "sha256": "cd8f78dbcf437f148e6af94cd059370f08a270bb23525a1e5d0e48237337bb05",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/gems_shot.zip"
+    },
+    {
+      "id": "geometry_mash",
+      "title_en": "Geometry Mash",
+      "title_vi": "",
+      "category": "ARCADE",
+      "version": 1,
+      "size_bytes": 2108265,
+      "sha256": "02652d1c95e39e1f89838fc35026d40bc0895c8435c447fb2b286d1faa896453",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/geometry_mash.zip"
+    },
+    {
       "id": "geometry_rash",
       "title_en": "Geometry Rash",
       "title_vi": "",
@@ -651,6 +811,46 @@
       "size_bytes": 1911395,
       "sha256": "19b4e8f7f63cee505196212fff150b39226ed6a264a4794810b03da39341393e",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/geometry_rash.zip"
+    },
+    {
+      "id": "geometry_world",
+      "title_en": "Geometry World",
+      "title_vi": "",
+      "category": "ARCADE",
+      "version": 1,
+      "size_bytes": 1348701,
+      "sha256": "85740399526cafab45a6867910ca79b63081d4a70254e57a468fd44712dac9d7",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/geometry_world.zip"
+    },
+    {
+      "id": "get_10",
+      "title_en": "Get 10",
+      "title_vi": "",
+      "category": "ARCADE",
+      "version": 1,
+      "size_bytes": 1969808,
+      "sha256": "290559748097fd230538de90b0b80a65c0ccb46bb7978bb3db05f1a0a8362ba4",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/get_10.zip"
+    },
+    {
+      "id": "gold_coast",
+      "title_en": "Gold Coast",
+      "title_vi": "",
+      "category": "ACTION",
+      "version": 1,
+      "size_bytes": 4247909,
+      "sha256": "21b87dc7b294f5eddeebb4493293df13268c0669f5eebbe6ac60e489e85b89da",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/gold_coast.zip"
+    },
+    {
+      "id": "goldblade",
+      "title_en": "Goldblade",
+      "title_vi": "",
+      "category": "ACTION",
+      "version": 1,
+      "size_bytes": 1185113,
+      "sha256": "61e8b92c335c9248120d29d312df8cbfd9368220fb794608a0bfc5fae6f9e3b0",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goldblade.zip"
     },
     {
       "id": "golf_day",
