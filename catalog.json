@@ -863,6 +863,56 @@
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/golf_day.zip"
     },
     {
+      "id": "golf_pin",
+      "title_en": "Golf Pin",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 992665,
+      "sha256": "6079fb6408c36099c14af770e012866c506f42c9e3c31a3fde6e1fa9e774ef02",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/golf_pin.zip"
+    },
+    {
+      "id": "golf_world",
+      "title_en": "Golf World",
+      "title_vi": "",
+      "category": "ARCADE",
+      "version": 1,
+      "size_bytes": 1504221,
+      "sha256": "70eeb5f7c5f2efa7dd803219d275f787855c58fb5a493daf4ebfb2e317fa469d",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/golf_world.zip"
+    },
+    {
+      "id": "goods_puzzle",
+      "title_en": "Goods Puzzle",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1964472,
+      "sha256": "9a02f6b46a85d7fe137a535a9e9c28a53e42fb6ce0052502b87f6663a1ea2eb6",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goods_puzzle.zip"
+    },
+    {
+      "id": "green_prickle",
+      "title_en": "Green Prickle",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 765031,
+      "sha256": "c579b2e05e2c16f52cac97831d1e0e21e03bf8cad0350f3ef9d279cbc02cca57",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/green_prickle.zip"
+    },
+    {
+      "id": "guess_word",
+      "title_en": "Guess Word",
+      "title_vi": "",
+      "category": "WORD PUZZLE",
+      "version": 1,
+      "size_bytes": 2004329,
+      "sha256": "9a930d6945942348ebe7786756bfa7de796358f3e07000e0f71a9643d43fec11",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/guess_word.zip"
+    },
+    {
       "id": "happy_filled_glass",
       "title_en": "Happy Filled Glass",
       "title_vi": "",
@@ -883,6 +933,16 @@
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/happy_filled_glass_2.zip"
     },
     {
+      "id": "happy_filled_glass_3",
+      "title_en": "Happy Filled Glass 3",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1370460,
+      "sha256": "2f1d1afa299d54f1bed3bb97e318cc2e87702efd39d7725bf0a307c96f7e9ffa",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/happy_filled_glass_3.zip"
+    },
+    {
       "id": "happy_filled_glass_4",
       "title_en": "Happy Filled Glass 4",
       "title_vi": "",
@@ -891,6 +951,16 @@
       "size_bytes": 1144779,
       "sha256": "13a5594e2a3688c4d596fa4a6bf8d575ed8f0466938eb432a6cf3ebcdde2d180",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/happy_filled_glass_4.zip"
+    },
+    {
+      "id": "happy_snake",
+      "title_en": "Happy Snake",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1543966,
+      "sha256": "74df2c8bf77c1776c2212ab34027c0e3d8058e0e8b78927b728854b42170046b",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/happy_snake.zip"
     },
     {
       "id": "head_soccer",
@@ -903,6 +973,16 @@
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/head_soccer.zip"
     },
     {
+      "id": "hero_blaster",
+      "title_en": "Hero Blaster",
+      "title_vi": "",
+      "category": "ARCADE",
+      "version": 1,
+      "size_bytes": 6643343,
+      "sha256": "1c5e2924c3fa87d896d388ff4efc0214eb8e18d26767c1a37ee753e71c4317e6",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/hero_blaster.zip"
+    },
+    {
       "id": "hero_match",
       "title_en": "Hero Match",
       "title_vi": "",
@@ -911,6 +991,26 @@
       "size_bytes": 15825794,
       "sha256": "bfab976f885140aeaf36c5c2f01a0fbff8515fc8b2c2c2a2cd448f914b0060a9",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/hero_match.zip"
+    },
+    {
+      "id": "hexa_merge",
+      "title_en": "Hexa Merge",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1170620,
+      "sha256": "639f5a166bce80794e5ced4b95e73e28bcbfade53bc5358bccc8d24b955eb3e2",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/hexa_merge.zip"
+    },
+    {
+      "id": "hexa_word",
+      "title_en": "Hexa Word",
+      "title_vi": "",
+      "category": "WORD PUZZLE",
+      "version": 1,
+      "size_bytes": 1800946,
+      "sha256": "b0dedca7cd6c1887350725775d13df76eb7d46d0dfb42bb76aaf288ec311dec6",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/hexa_word.zip"
     },
     {
       "id": "hexadice",
@@ -943,6 +1043,16 @@
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/how_to_loot.zip"
     },
     {
+      "id": "impulse_ball",
+      "title_en": "Impulse Ball",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 883094,
+      "sha256": "7a962ff99fdb00175ae9a74d314fb4ceabcce0db7c439a28ec0a9bcab54e4c74",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/impulse_ball.zip"
+    },
+    {
       "id": "indiara",
       "title_en": "Indiara",
       "title_vi": "",
@@ -951,6 +1061,16 @@
       "size_bytes": 1159294,
       "sha256": "6d0df7036e23f6de70aaa345e6ec69a4f0432707626d043fcd7eae58a74dd545",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/indiara.zip"
+    },
+    {
+      "id": "jewel_treasure",
+      "title_en": "Jewel Treasure",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1735913,
+      "sha256": "2b38ea7024fda86f0006cb38548a4957a6f6864b0a6baab3ff1a7230dcd56e52",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/jewel_treasure.zip"
     },
     {
       "id": "jigsaw_puzzle",
@@ -973,6 +1093,36 @@
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/knife_hit.zip"
     },
     {
+      "id": "knife_hit_2",
+      "title_en": "Knife Hit 2",
+      "title_vi": "",
+      "category": "ARCADE",
+      "version": 1,
+      "size_bytes": 1469151,
+      "sha256": "28850ecb3808a3f3cd0735cad21fdc545d1b02c2c3675626467da5c46d7666e9",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/knife_hit_2.zip"
+    },
+    {
+      "id": "knife_shoot",
+      "title_en": "Knife Shoot",
+      "title_vi": "",
+      "category": "ACTION",
+      "version": 1,
+      "size_bytes": 1561976,
+      "sha256": "bf161cbf52d862e821c3d57d57008df682c1056c0c47cc6b4caed0a02f397747",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/knife_shoot.zip"
+    },
+    {
+      "id": "lines98",
+      "title_en": "Lines 98",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 584688,
+      "sha256": "8d2a3a938c164264a95767519afa44aa178f464f44b96d3689bbe6cc179432d0",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/lines98.zip"
+    },
+    {
       "id": "link_2248",
       "title_en": "Link 2248",
       "title_vi": "",
@@ -983,6 +1133,26 @@
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/link_2248.zip"
     },
     {
+      "id": "liquid_orange",
+      "title_en": "Liquid Orange",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1015561,
+      "sha256": "cb1a362815591f46613f11ebf027cfff8d00d7a579f5c9dee17e4f71ece357e4",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/liquid_orange.zip"
+    },
+    {
+      "id": "liquid_sort",
+      "title_en": "Liquid Sort",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 3226692,
+      "sha256": "be00c8dd66ed7a232c53e6520082226720774a6093fbfc550ca8e1d2e14bdcd6",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/liquid_sort.zip"
+    },
+    {
       "id": "ludo",
       "title_en": "Ludo",
       "title_vi": "",
@@ -991,6 +1161,26 @@
       "size_bytes": 771186,
       "sha256": "98b4b5eb67891f543294744bc34de20de29dca88147cd5fda26e8255a82dc032",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/ludo.zip"
+    },
+    {
+      "id": "luminova",
+      "title_en": "Luminova",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1146447,
+      "sha256": "07333ff83dbc5a270379f1ac8ad23b2da7fa2053c162eac99f16c196a9e3357a",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/luminova.zip"
+    },
+    {
+      "id": "magic_candy",
+      "title_en": "Magic Candy",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1092240,
+      "sha256": "e63edb80c1e37ec6e57a1bc46cae2f1d282de4c1219964a5f695ae60f8080119",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/magic_candy.zip"
     },
     {
       "id": "mahjong_classic",
@@ -1011,6 +1201,16 @@
       "size_bytes": 1528073,
       "sha256": "37cb7ba65cfb78dec3faa90e36e399a26efef77298d44f55e42ccec640050eea",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/mahjong_deluxe.zip"
+    },
+    {
+      "id": "marble_blast",
+      "title_en": "Marble Blast",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 2818492,
+      "sha256": "7b1a5af2baa9adc60a3ff818fe3962ca915318781a008a9b83d7d3e0ade97c0a",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/marble_blast.zip"
     },
     {
       "id": "master_fall_down",
