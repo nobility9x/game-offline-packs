@@ -7,9 +7,9 @@
       "title_en": "Among Us",
       "title_vi": "",
       "category": "PUZZLE",
-      "version": 2,
-      "size_bytes": 2680872,
-      "sha256": "2fba2b676b1c48d73b22fd17b82c3576d3fe7dc271b2b218e1cee69e5e763d43",
+      "version": 3,
+      "size_bytes": 2680887,
+      "sha256": "41fdc1d5e593884916f52c8e70d9944f8798fd43244741bfd0f7c01cbee5d9bb",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/among_us.zip"
     },
     {
@@ -17,9 +17,9 @@
       "title_en": "Backgammon",
       "title_vi": "",
       "category": "BOARD",
-      "version": 2,
-      "size_bytes": 2187644,
-      "sha256": "fb5fdb38bf1241ec2a34fb8ac7ca48d80c17a2cb8a22ea18a7f93ed9abec91cd",
+      "version": 3,
+      "size_bytes": 2187659,
+      "sha256": "a84b6a2c2076bfe14a9d3ba5f7101dfdfcd5f362232c4b06940b886b53d1429b",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/backgammon.zip"
     },
     {
@@ -27,9 +27,9 @@
       "title_en": "Ball Crush",
       "title_vi": "",
       "category": "PUZZLE",
-      "version": 2,
-      "size_bytes": 4260897,
-      "sha256": "b1bc07cdb50c8e1cb3d801e3ef44bd792a4a7700a60067bd29c8f5d553b64b17",
+      "version": 3,
+      "size_bytes": 4260911,
+      "sha256": "4de4cc5736d58f91f79aa87a2ab44649d2b42c7d9f2b7b0caba58b1ac511a4a3",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/ball_crush.zip"
     },
     {
@@ -37,9 +37,9 @@
       "title_en": "Hero Match",
       "title_vi": "",
       "category": "PUZZLE",
-      "version": 2,
-      "size_bytes": 15825782,
-      "sha256": "64441eefd76e20e107ad1ab8016bdb5b23c9e19843abc21b0a8e9e8f453a49ab",
+      "version": 3,
+      "size_bytes": 15825794,
+      "sha256": "bfab976f885140aeaf36c5c2f01a0fbff8515fc8b2c2c2a2cd448f914b0060a9",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/hero_match.zip"
     },
     {
@@ -47,9 +47,9 @@
       "title_en": "Indiara",
       "title_vi": "",
       "category": "ACTION",
-      "version": 2,
-      "size_bytes": 1159279,
-      "sha256": "66cfb3d437a9a465d598696c10129e3880cf97b593e865f69a8df16d45e772ad",
+      "version": 3,
+      "size_bytes": 1159294,
+      "sha256": "6d0df7036e23f6de70aaa345e6ec69a4f0432707626d043fcd7eae58a74dd545",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/indiara.zip"
     },
     {
@@ -57,9 +57,9 @@
       "title_en": "Ludo",
       "title_vi": "",
       "category": "BOARD",
-      "version": 2,
-      "size_bytes": 771173,
-      "sha256": "1c7d9c579a0da41bf2f381181681138c71edf73f72e5e9ea86bc35ecc3864bdc",
+      "version": 3,
+      "size_bytes": 771186,
+      "sha256": "98b4b5eb67891f543294744bc34de20de29dca88147cd5fda26e8255a82dc032",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/ludo.zip"
     },
     {
@@ -67,9 +67,9 @@
       "title_en": "Mahjong Deluxe",
       "title_vi": "",
       "category": "PUZZLE",
-      "version": 2,
-      "size_bytes": 1528057,
-      "sha256": "27d671ba8fa3f186dbf6168611643f497ffdd291b2d96f92b75f440b145b8d05",
+      "version": 3,
+      "size_bytes": 1528073,
+      "sha256": "37cb7ba65cfb78dec3faa90e36e399a26efef77298d44f55e42ccec640050eea",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/mahjong_deluxe.zip"
     },
     {
@@ -77,9 +77,9 @@
       "title_en": "Merge Shooter",
       "title_vi": "",
       "category": "ACTION",
-      "version": 3,
-      "size_bytes": 3712510,
-      "sha256": "ac22275630836e8652e252461732e21c9e48245fe831a261137592a89cb425d3",
+      "version": 4,
+      "size_bytes": 3712523,
+      "sha256": "c552d179a98679274b883a57d009890c7cec783f1d9309eb9ec6e5a184e9bd87",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/merge_shooter.zip"
     },
     {
@@ -87,9 +87,9 @@
       "title_en": "Number Match",
       "title_vi": "",
       "category": "PUZZLE",
-      "version": 2,
-      "size_bytes": 2475666,
-      "sha256": "35b1bf46948e3f852e249c12de711122b5bf41b4ca93d52b51144d970ff2a3b1",
+      "version": 3,
+      "size_bytes": 2475679,
+      "sha256": "019ea294dc676f1ba4d232d91fd1a1b747a0d6e4ced32b0e679d11a9a49c141b",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/number_match.zip"
     },
     {
@@ -97,9 +97,9 @@
       "title_en": "Snowball",
       "title_vi": "",
       "category": "ACTION",
-      "version": 2,
-      "size_bytes": 341261,
-      "sha256": "8f9ea551e21fa34fcd39e84413a67d979c7981e4b4693231dffc478d6d3fa1b8",
+      "version": 3,
+      "size_bytes": 341276,
+      "sha256": "876c896f7f6eee6d8ac83ffdf2f18414f0ab5ecdd66582f9c54028f814596e9d",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/snowball.zip"
     },
     {
@@ -107,9 +107,9 @@
       "title_en": "Spot The Difference",
       "title_vi": "",
       "category": "PUZZLE",
-      "version": 2,
-      "size_bytes": 8280133,
-      "sha256": "f0ce0194f3f07967fcd5ab296a955e31c25d064f077053d272b3420cc813bd10",
+      "version": 3,
+      "size_bytes": 8280146,
+      "sha256": "edf6d9ffee2a22f3ef8fe4b87162c702f46ea95c9bc6c0d5626cdd200a771fa6",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/spot_the_difference.zip"
     },
     {
@@ -117,9 +117,9 @@
       "title_en": "Tiny Crash Fighters",
       "title_vi": "",
       "category": "ACTION",
-      "version": 2,
-      "size_bytes": 4352529,
-      "sha256": "74214aa454ed874c97623111d8c65144ee827c227663333e8c070d202d523e4b",
+      "version": 3,
+      "size_bytes": 4352543,
+      "sha256": "d06100a854bb18eab0c74c182f60b461260556b26097f3f04d95905c73290d94",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/tiny_crash_fighters.zip"
     },
     {
@@ -127,9 +127,9 @@
       "title_en": "Zumba",
       "title_vi": "",
       "category": "PUZZLE",
-      "version": 2,
-      "size_bytes": 3707865,
-      "sha256": "7c9ab17bec867a8b8e981c212f78da0d7f137d11983d02d66566a9539701ef47",
+      "version": 3,
+      "size_bytes": 3707880,
+      "sha256": "e3333bd7d79b19ab5eba0777bf949ec701a49ac8290078854a5973cffce55e49",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/zumba.zip"
     }
   ]
