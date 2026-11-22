@@ -13,6 +13,26 @@
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/among_us.zip"
     },
     {
+      "id": "apple_worm",
+      "title_en": "Apple Worm",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1455586,
+      "sha256": "13fd4e3325fdc9ef44e5b9bdd3af25a220090353431d0007d01e8b05b7dbd8dd",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/apple_worm.zip"
+    },
+    {
+      "id": "archers_random",
+      "title_en": "Archers Random",
+      "title_vi": "",
+      "category": "ARCADE",
+      "version": 1,
+      "size_bytes": 5173185,
+      "sha256": "a24b44bda26cff933306cbe9a42ff21e5ecc230954fe9099ad1d4b031b4b9b94",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/archers_random.zip"
+    },
+    {
       "id": "backgammon",
       "title_en": "Backgammon",
       "title_vi": "",
@@ -31,6 +51,136 @@
       "size_bytes": 4260911,
       "sha256": "4de4cc5736d58f91f79aa87a2ab44649d2b42c7d9f2b7b0caba58b1ac511a4a3",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/ball_crush.zip"
+    },
+    {
+      "id": "balloons_creator",
+      "title_en": "Balloons Creator",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 807825,
+      "sha256": "7ef2160f558116325cd5f2f8013190b449997f9a677269f6cf63f6d95903c4a6",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/balloons_creator.zip"
+    },
+    {
+      "id": "block_blast",
+      "title_en": "Block Blast",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 748532,
+      "sha256": "a683310f5960ab194aa1c6de358887e9c0a6d18729ce936cd02b6b62023726e8",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/block_blast.zip"
+    },
+    {
+      "id": "block_merge",
+      "title_en": "Block Merge",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1764457,
+      "sha256": "566d8dad854b2709f3d79c2a68e55da28f3c5275e78256fceaeebafdcd7b2cde",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/block_merge.zip"
+    },
+    {
+      "id": "block_tetris",
+      "title_en": "Block Tetris",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 1477332,
+      "sha256": "4a413dc111ebfdffea4e18fa1b4f099ff55b1d8c2afa36c7a154d666a664edcf",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/block_tetris.zip"
+    },
+    {
+      "id": "brainrot_merge",
+      "title_en": "Brainrot Merge",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 2978454,
+      "sha256": "063d32400de78d182a16088d4be1b0a7b98dc399cb02875ec95724f54ea3187f",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/brainrot_merge.zip"
+    },
+    {
+      "id": "brick_breaker_retro",
+      "title_en": "Brick Breaker",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 2076327,
+      "sha256": "a54eadc438757888d042536575ca73796596625bdeb3d66e07a6d375aa4124bf",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/brick_breaker_retro.zip"
+    },
+    {
+      "id": "bubble_shooter",
+      "title_en": "Bubble Shooter",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 1626712,
+      "sha256": "970c1dff13aa52901e35fa7312fb26d3e2f57ddf0c5f666b68cbdbfb6b395b4c",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/bubble_shooter.zip"
+    },
+    {
+      "id": "cap_sort",
+      "title_en": "Cap Sort",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 3144015,
+      "sha256": "a613ba5b9298adcbc662405559c63febb4c87cc56745a9b31dd251e65e49a687",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/cap_sort.zip"
+    },
+    {
+      "id": "city_builder",
+      "title_en": "City Builder",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 1700083,
+      "sha256": "0ad1452e5b3e779ad3a782eaecd4e3b773d960847e1a7fc9d9dcaaaba57ee806",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/city_builder.zip"
+    },
+    {
+      "id": "coin_sort",
+      "title_en": "Coin Sort",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 3645494,
+      "sha256": "889d382812f7d52f9e31e5bbf26a060fdd897864728c0d555a7b46b18d30aae0",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/coin_sort.zip"
+    },
+    {
+      "id": "collect_em_all",
+      "title_en": "Collect Em All",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 1606609,
+      "sha256": "09f415d10ed9de53e17aee2df8e2cfff543b0a97c0c2023236fb3221f8b62211",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/collect_em_all.zip"
+    },
+    {
+      "id": "color_by_number",
+      "title_en": "Color By Number",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 2627083,
+      "sha256": "651af82b9ab0bdfe95be3375418fe6c53b225ce2a7af0738140ffdb77aa39f89",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/color_by_number.zip"
+    },
+    {
+      "id": "color_cannon",
+      "title_en": "Color Cannon",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 1413254,
+      "sha256": "68c500b599747ff8b18ec064eb6ee4067ddac61b52e0327d991bba47e91e23ad",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/color_cannon.zip"
     },
     {
       "id": "hero_match",
