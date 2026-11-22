@@ -833,6 +833,16 @@
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/solitaire_associations.zip"
     },
     {
+      "id": "solitaire_classic",
+      "title_en": "Solitaire Classic",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 881215,
+      "sha256": "7d2af7674de1cf3bac171b44321a0ae28fbd70bdb3f8c837a7dab0dd1d507e61",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/solitaire_classic.zip"
+    },
+    {
       "id": "solitaire_spider",
       "title_en": "Solitaire Spider",
       "title_vi": "",
@@ -841,6 +851,16 @@
       "size_bytes": 777180,
       "sha256": "f59fa7ba6569dde29b60cef586960d5eace2a1074b2937f023879abc69f1b37f",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/solitaire_spider.zip"
+    },
+    {
+      "id": "spades",
+      "title_en": "Spades",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 1073773,
+      "sha256": "043a34051f439a5c74d1056a33e3c3df922a7011458128d8f82a6731597dd9a2",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/spades.zip"
     },
     {
       "id": "spill_wine",
@@ -971,6 +991,56 @@
       "size_bytes": 1534155,
       "sha256": "0a32df4528efb78c592867503f3db47f58d5d21497416a45fb4178b342446c29",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/uno_vertical.zip"
+    },
+    {
+      "id": "water_sort",
+      "title_en": "Water Sort",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 536600,
+      "sha256": "7be23a9238c62f8b13ec188794b3d4278065666b77ca3b34b41f5e002d0dd462",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/water_sort.zip"
+    },
+    {
+      "id": "word_connect",
+      "title_en": "Word Connect",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 3187794,
+      "sha256": "6b6ca28a137ca62ee55c73ef0352c71eb975a1d1eadcc7b24d8bc0855177e1e9",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/word_connect.zip"
+    },
+    {
+      "id": "word_search_hidden_2",
+      "title_en": "Word Search Hidden 2",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 1938517,
+      "sha256": "19f541930cfa307f203dc3e2d79fc4052f4a28a6f37e86a25468be60d8e1dc68",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/word_search_hidden_2.zip"
+    },
+    {
+      "id": "wordly",
+      "title_en": "Wordly",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 1307692,
+      "sha256": "49a9c513934dd5062d4817d86ca0a9c5aa5bb286ec6dce566bce2f45631e85bf",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/wordly.zip"
+    },
+    {
+      "id": "zombie_tower_defence",
+      "title_en": "Zombie Tower Defence",
+      "title_vi": "",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 4094527,
+      "sha256": "a9ab83b545971e5957046170dfc3dfeafb69d48feba70e395287dbf4b08e3c0d",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/zombie_tower_defence.zip"
     },
     {
       "id": "zumba",
