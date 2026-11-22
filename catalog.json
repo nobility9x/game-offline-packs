@@ -2283,6 +2283,36 @@
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/visual_puzzle.zip"
     },
     {
+      "id": "war_tactics",
+      "title_en": "War Tactics",
+      "title_vi": "",
+      "category": "ARCADE",
+      "version": 1,
+      "size_bytes": 7744642,
+      "sha256": "f0c6b5171cb3ad7616d5fc6cb53f461f9d24ff030b387f82a4c4d5a41a01b9c5",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/war_tactics.zip"
+    },
+    {
+      "id": "warship",
+      "title_en": "Warship",
+      "title_vi": "",
+      "category": "ARCADE",
+      "version": 1,
+      "size_bytes": 3877881,
+      "sha256": "ef283c0a112c3ce5616027574eeccc4bbd16e047c76e26998a4e9eb4e6c3b89e",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/warship.zip"
+    },
+    {
+      "id": "warship_royale",
+      "title_en": "Warship Royale",
+      "title_vi": "",
+      "category": "ARCADE",
+      "version": 1,
+      "size_bytes": 4577656,
+      "sha256": "efda3dd7afff336dec2c3236e028321f1fd177f92e7e7d9df54e46e616664588",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/warship_royale.zip"
+    },
+    {
       "id": "water_sort",
       "title_en": "Water Sort",
       "title_vi": "",
@@ -2293,6 +2323,16 @@
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/water_sort.zip"
     },
     {
+      "id": "white_dot",
+      "title_en": "White Dot",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 645603,
+      "sha256": "a3094b4ded5a75e166d379b97c218f7136b2681e2f7a0e9fe63f4eac2c7d7cd7",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/white_dot.zip"
+    },
+    {
       "id": "word_connect",
       "title_en": "Word Connect",
       "title_vi": "",
@@ -2301,6 +2341,16 @@
       "size_bytes": 3187794,
       "sha256": "6b6ca28a137ca62ee55c73ef0352c71eb975a1d1eadcc7b24d8bc0855177e1e9",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/word_connect.zip"
+    },
+    {
+      "id": "word_search",
+      "title_en": "Word Search",
+      "title_vi": "",
+      "category": "WORD PUZZLE",
+      "version": 1,
+      "size_bytes": 2425748,
+      "sha256": "e1c48ed82b635c89788ebe6371a2e9a713d6e6477ced44d3a4969325bdfd07f9",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/word_search.zip"
     },
     {
       "id": "word_search_hidden_2",
@@ -2321,6 +2371,36 @@
       "size_bytes": 1307692,
       "sha256": "49a9c513934dd5062d4817d86ca0a9c5aa5bb286ec6dce566bce2f45631e85bf",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/wordly.zip"
+    },
+    {
+      "id": "wrench_puzzle",
+      "title_en": "Wrench Puzzle",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 4567349,
+      "sha256": "ab0c2cd36b0de743920cd04bf22e69c6bdb07b51c554f04f5bc149130da2148b",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/wrench_puzzle.zip"
+    },
+    {
+      "id": "yellow_dot",
+      "title_en": "Yellow Dot",
+      "title_vi": "",
+      "category": "PUZZLE",
+      "version": 1,
+      "size_bytes": 756108,
+      "sha256": "58de8c46fd1131a8fe00ba7a1a32691ee59582823de742e27e221d22909d4a24",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/yellow_dot.zip"
+    },
+    {
+      "id": "zombie_attack",
+      "title_en": "Zombie Attack",
+      "title_vi": "",
+      "category": "ARCADE",
+      "version": 1,
+      "size_bytes": 11082494,
+      "sha256": "6d2e32e2fce84e99e1e7e60933701df451eeba39def300f5b68a015d5dead1bd",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/zombie_attack.zip"
     },
     {
       "id": "zombie_tower_defence",
