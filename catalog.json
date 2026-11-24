@@ -1,6 +1,6 @@
 {
   "catalog_version": 1,
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "packs": [
     {
       "id": "amaze_ball_quest",
@@ -1731,6 +1731,206 @@
       "size_bytes": 1964472,
       "sha256": "9a02f6b46a85d7fe137a535a9e9c28a53e42fb6ce0052502b87f6663a1ea2eb6",
       "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goods_puzzle.zip"
+    },
+    {
+      "id": "goofy_bopping",
+      "title_en": "Keep It Up",
+      "title_vi": "Đừng Để Bóng Rơi",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 107695,
+      "sha256": "b375de4f7f1bea3e912fd6b759b787b7b774de0e9893c80c4306e358fd2188d9",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_bopping.zip"
+    },
+    {
+      "id": "goofy_boxline",
+      "title_en": "Boxline",
+      "title_vi": "Vẽ Đường Hộp",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 97337,
+      "sha256": "2c1999a7e40875aa267d04382a2df4dc639d38248686b5d2c09f17a8d80f3457",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_boxline.zip"
+    },
+    {
+      "id": "goofy_chopping",
+      "title_en": "Timber",
+      "title_vi": "Đốn Gỗ",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 161774,
+      "sha256": "fa3b965779eafc7e35ed6f3a4b796acd1d34e5b3bf9036ce76dc28def11bbc53",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_chopping.zip"
+    },
+    {
+      "id": "goofy_crossing",
+      "title_en": "Hop Across",
+      "title_vi": "Nhảy Sang Bờ",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 128301,
+      "sha256": "31e0e4df8b14e653dd56ac175b97db387a9588e3edac9aa1a56be418d7c5e689",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_crossing.zip"
+    },
+    {
+      "id": "goofy_gaps",
+      "title_en": "Mind the Gap",
+      "title_vi": "Bắc Cầu Qua Khe",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 110635,
+      "sha256": "6505b221b4c6fcf9ab29fac9a4409e8ea5d561580867d576a614afa87e644aeb",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_gaps.zip"
+    },
+    {
+      "id": "goofy_glider",
+      "title_en": "Paper Glider",
+      "title_vi": "Tàu Lượn Giấy",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 92729,
+      "sha256": "7e675ee550d637fe94fd0459becb9624864ed121506ef1eb5c905867739d1276",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_glider.zip"
+    },
+    {
+      "id": "goofy_hoops",
+      "title_en": "Ten Balls",
+      "title_vi": "Ném 10 Bóng",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 96745,
+      "sha256": "d5464da91cd305925ddf22a936e9fd7d71aeb3eb9d40eca2496f846257aa54e2",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_hoops.zip"
+    },
+    {
+      "id": "goofy_knockdown",
+      "title_en": "Knockdown",
+      "title_vi": "Bắn Đổ Hết",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 205799,
+      "sha256": "b6464b947c49103392b52f6cda893768ba074febb8a2e2c3473866692b822877",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_knockdown.zip"
+    },
+    {
+      "id": "goofy_mirror",
+      "title_en": "Mirror",
+      "title_vi": "Bắt Chước Dáng",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 189817,
+      "sha256": "a84620b9376015baa8b307bb7269a0c7f285656c24cda50924d34ffeb19fa941",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_mirror.zip"
+    },
+    {
+      "id": "goofy_planks",
+      "title_en": "Chop Stack",
+      "title_vi": "Xếp Ván Chặt",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 112817,
+      "sha256": "ab97fc1576ce4d497df7f983d6a476d5d8062db54adece7f92f575753277f44b",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_planks.zip"
+    },
+    {
+      "id": "goofy_punching",
+      "title_en": "Goon Rush",
+      "title_vi": "Đấm Goon",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 144723,
+      "sha256": "fcf96fbf64772f8fa3f540711d141cb34d39f9d1a71b85dad2b8e7d115928c69",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_punching.zip"
+    },
+    {
+      "id": "goofy_rolling",
+      "title_en": "Keep Rolling",
+      "title_vi": "Lăn Mãi Không Dừng",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 186670,
+      "sha256": "5e666b77c649a1fa5f74cac5c85b60ced59eb5da9e7b7a22329cd9449b0ed593",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_rolling.zip"
+    },
+    {
+      "id": "goofy_selves",
+      "title_en": "Past Selves",
+      "title_vi": "Gặp Lại Chính Mình",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 105043,
+      "sha256": "b8d535790030c8536a6f5a66e8ba70a2877709f6b972f33c24e8f594cc0b9e75",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_selves.zip"
+    },
+    {
+      "id": "goofy_skirmish",
+      "title_en": "Skirmish",
+      "title_vi": "Loạn Chiến",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 176614,
+      "sha256": "e176ab03246e8663203cd2468fbc69468a736a43884555c2fd6ac9bba939436b",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_skirmish.zip"
+    },
+    {
+      "id": "goofy_slicing",
+      "title_en": "Picnic Panic",
+      "title_vi": "Chém Đồ Ăn",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 135422,
+      "sha256": "d1c8fbfc574233e8d0ded2617e0b0fc37a0dd9c684aecda3bf17784e0d3cd19d",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_slicing.zip"
+    },
+    {
+      "id": "goofy_slowmo",
+      "title_en": "Slow Mo Hop",
+      "title_vi": "Nhảy Chậm",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 121399,
+      "sha256": "88000829bf87ecbf8537d4f1a791af3d453f10c054e4bea5341a13c54a2372ca",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_slowmo.zip"
+    },
+    {
+      "id": "goofy_stacks",
+      "title_en": "Crane Drop",
+      "title_vi": "Thả Xếp Tháp",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 91438,
+      "sha256": "2e80c330a7986aedca3e47e4cf44e082a6a9cf643c8a18c88c29986269e1be9f",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_stacks.zip"
+    },
+    {
+      "id": "goofy_stomping",
+      "title_en": "Floor Is Spikes",
+      "title_vi": "Sàn Toàn Gai",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 162128,
+      "sha256": "f8848b18ff31e382dfef51908bee556ae6141251d7cf87e44d363fbbc9cc7c25",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_stomping.zip"
+    },
+    {
+      "id": "goofy_stones",
+      "title_en": "Stepping Stones",
+      "title_vi": "Bước Đá Qua Sông",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 111057,
+      "sha256": "7d9dea6447966bdc92118808f7d9f60e4c49fefa7fe7a70f4d88147cde09ee1c",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_stones.zip"
+    },
+    {
+      "id": "goofy_typing",
+      "title_en": "Type Fight",
+      "title_vi": "Đấu Gõ Chữ",
+      "category": "GAME",
+      "version": 1,
+      "size_bytes": 134192,
+      "sha256": "c8d93cb912917067b615d4ce5ae90432852d7fb50cf59df6b113ede517520b68",
+      "download_url": "https://github.com/nobility9x/game-offline-packs/releases/download/packs-v1/goofy_typing.zip"
     },
     {
       "id": "goose_rescue",
